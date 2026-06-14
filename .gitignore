@@ -1,0 +1,10 @@
+# Default ignored files
+/workspace.xml
+.idea/*
+__pycache__/
+*.py[cod]
+.pytest_cache/
+spark.log
+*:Zone.Identifier
+.vscode/sbdl.env
+
